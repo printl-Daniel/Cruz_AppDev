@@ -1,0 +1,22 @@
+.page-title {
+  text-align: center;
+  display: flex;
+  margin-top: 10vh;
+  margin-bottom: 5vh;
+  justify-content: center;
+  font-weight: 900px;
+  letter-spacing: 2px;
+  font-size: 2rem;
+}
+.send-message button {
+  width: 10%;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.send-message {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  height: 20vh;
+}

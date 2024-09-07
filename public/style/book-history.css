@@ -1,0 +1,9 @@
+.table p {
+  margin-top: 2vh;
+  letter-spacing: 1px;
+  font-weight: 600;
+  font-size: larger;
+}
+.table {
+  margin-top: 3vh;
+}

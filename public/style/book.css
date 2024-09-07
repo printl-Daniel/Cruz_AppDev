@@ -1,0 +1,25 @@
+.booking-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+}
+.booking-header {
+  font-size: 2rem;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+.form-label {
+  font-weight: 500;
+}
+
+.form-text {
+  font-size: 12px;
+  font-style: italic;
+  color: #6c757d;
+}
+
+form p {
+  margin-top: 10vh;
+}
